@@ -129,12 +129,16 @@
 /* CSS FOR PRODUCT SLIDER */
 
 .image-slider-desktop, .image-slider-mobile{
-    background-color:lightgreen;
+    background-color:rgb(10, 133, 190);
 }
 .desktop-col{
     margin-top: 0px 10px;
+    margin-bottom: 50px;
     box-shadow: 2px 5px 10px #aaa9a9;
     border-radius: 10px;
+}
+.mobile-slide{
+    margin-bottom: 50px;
 }
 .mobile-slider-carausel{
     box-shadow: 2px 5px 10px #aaa9a9;
