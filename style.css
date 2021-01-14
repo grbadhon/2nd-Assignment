@@ -127,6 +127,10 @@
 }
 
 /* CSS FOR PRODUCT SLIDER */
+
+.image-slider-desktop, .image-slider-mobile{
+    background-color:lightgreen;
+}
 .desktop-col{
     margin-top: 0px 10px;
     box-shadow: 2px 5px 10px #aaa9a9;
